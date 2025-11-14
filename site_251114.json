@@ -78,7 +78,7 @@
 		"filterable": 1
 	},{
 		"key": "LVNew2",
-		"name": "🧜🏻‍♀️Alex┃MSN",
+		"name": "🧜🏻‍♀️AlexNEW┃MSN",
 		"type": 0,
 		"searchable": 1,
 		"firstPlay": "ckplayer,m3u8",
@@ -86,7 +86,7 @@
 		"filterable": 1
 	},{
 		"key": "LVNew3",
-		"name": "🏩Alex┃XRB",
+		"name": "🏩AlexNEW┃XRB",
 		"type": 0,
 		"searchable": 1,
 		"firstPlay": "ckplayer,m3u8",
@@ -94,7 +94,7 @@
 		"filterable": 1
 	},{
 		"key": "LVNew4",
-		"name": "💒Alex┃GDL",
+		"name": "💒AlexNEW┃GDL",
 		"type": 0,
 		"searchable": 1,
 		"firstPlay": "ckplayer,m3u8",
@@ -102,7 +102,7 @@
 		"filterable": 1
 	},{
 		"key": "LVNew5",
-		"name": "🏙️Alex┃KXG",
+		"name": "🏙️AlexNEW┃KXG",
 		"type": 0,
 		"searchable": 1,
 		"firstPlay": "ckplayer,m3u8",
@@ -110,63 +110,63 @@
 		"filterable": 1
 	},{
 		"key": "LVNew8",
-		"name": "🏝️Alex┃CLZ",
+		"name": "🏝️AlexNEW┃CLZ",
 		"type": 1,
 		"searchable": 1,
 		"api": "https://www.caoliuzyw.com/api.php/provide/vod/from/clm3u8",
 		"filterable": 1
 	},{
 		"key": "LVNew10",
-		"name": "🏜️Alex┃XCL",
+		"name": "🏜️AlexNEW┃XCL",
 		"type": 1,
 		"searchable": 1,
 		"api": "https://www.caoliuzyw.com/api.php/provide/vod/at/json/",
 		"filterable": 1
 	},{
 		"key": "LVNew11",
-		"name": "🏖️Alex┃YIK",
+		"name": "🏖️AlexNEW┃YIK",
 		"type": 1,
 		"searchable": 1,
 		"api": "https://api.yikanapi.com/api.php/provide/vod/from/yikan",
 		"filterable": 1
 	},{
 		"key": "LVNew12",
-		"name": "🏕️Alex┃ASK",
+		"name": "🏕️AlexNEW┃ASK",
 		"type": 1,
 		"searchable": 1,
 		"api": "https://aosikazy.com/api.php/provide/vod/",
 		"filterable": 1
 	},{
 		"key": "LVNew15",
-		"name": "🛕Alex┃MAO",
+		"name": "🛕AlexNEW┃MAO",
 		"type": 1,
 		"searchable": 1,
 		"api": "https://api.maozyapi.com/inc/apijson_vod.php",
 		"filterable": 1
 	},{
 		"key": "LVNew16",
-		"name": "⛲Alex┃MDZ",
+		"name": "⛲AlexNEW┃MDZ",
 		"type": 1,
 		"searchable": 1,
 		"api": "http://wuxu.cc/api.php/provide/vod/from/mdm3u8/",
 		"filterable": 1
 	},{
 		"key": "LVNew17",
-		"name": "🌃Alex┃TTL",
+		"name": "🌃AlexNEW┃TTL",
 		"type": 1,
 		"searchable": 1,
 		"api": "https://to.to-long.com/api.php/provide/vod/at/json",
 		"filterable": 1
 	},{
 		"key": "LVNew18",
-		"name": "🎡Alex┃SLA",
+		"name": "🎡AlexNEW┃SLA",
 		"type": 1,
 		"searchable": 1,
 		"api": "https://slapibf.com/api.php/provide/vod/at/json",
 		"filterable": 1
 	},{
 		"key": "LVNew19",
-		"name": "🛫Alex┃FH9",
+		"name": "🛫AlexNEW┃FH9",
 		"type": 1,
 		"searchable": 1,
 		"api": "http://fhapi9.com/api.php/provide/vod/at/json",
