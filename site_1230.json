@@ -8,66 +8,10 @@
 	{"name":"FongMi","type":0,"url":"https://p.ntnas.top/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/adult.txt"},
 	{"name":"Guo54","type":0,"url":"https://p.ntnas.top/https://agit.ai/guot54/ygbh/raw/branch/master/zB/zB.txt"},
 	{"name":"GaoTian","type":0,"url":"https://p.ntnas.top/https://raw.githubusercontent.com/gaotianliuyun/gao/master/listx.txt"},
-	{"name":"YanG","type":0,"url":"https://p.ntnas.top/https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u"},
-	
-	{"name":"0515","type":0,"url":"https://p.ntnas.top/https://raw.githubusercontent.com/c120487/00/main/00live0515.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}
+	{"name":"YanG","type":0,"url":"https://p.ntnas.top/https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u"}
 ],
 
-
-"categories":["福利","福利片","伦理片"],
 "sites":[
-{"key":"date","name":"️🚫🔞 0423 🔞🚫","type":3,"api":"csp_NiNi","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"ffBBB","name":"🌐Bilibili (HD)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://p.ntnas.top/https://raw.githubusercontent.com/c120487/00/main/ext/00bili05155.json", "jar":"https://p.ntnas.top/https://github.com/c120487/00/raw/main/jar/pc0330.jar"},
-{"key":"live","name":"💻电视直播","type":3,"api":"https://github.com/c120487/00/raw/main/api/直播转点播.js","ext":"Peter1$https://p.ntnas.top/https://raw.githubusercontent.com/c120487/00/main/00live05151.txt#Peter2$https://p.ntnas.top/https://raw.githubusercontent.com/c120487/00/main/00live05152.txt#Peter3$https://p.ntnas.top/https://raw.githubusercontent.com/c120487/00/main/00live05153.txt#FongMi$https://p.ntnas.top/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/adult.txt#Gaotian$https://p.ntnas.top/https://raw.githubusercontent.com/gaotianliuyun/gao/master/listx.txt"},
-
-{"key":"Local","name":"🗃本地播放","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":1,"type_flag":1},
-{"key":"WebDAV","name":"📀WebDAV","type":3,"api":"csp_WebDAV","searchable":0,"quickSearch":0,"filterable":1,"changeable":0,"ext":"https://p.ntnas.top/https://raw.githubusercontent.com/c120487/00/main/ext/webdav05155.txt","jar":"https://p.ntnas.top/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
-{"key":"Alist","name":"🌐AList","type":3,"api":"csp_AList","searchable":0,"quickSearch":0,"filterable":1,"changeable":0,"ext":"https://p.ntnas.top/https://raw.githubusercontent.com/c120487/00/main/ext/alist05155.txt"},
-
-
-
-{"key":"vv001","name":"️💃女優💃","type":4,"api":"https://p.ntnas.top/https://raw.githubusercontent.com/c120487/00/main/api/00title05151.json","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"vv002","name":"️👠番號👠","type":4,"api":"https://p.ntnas.top/https://raw.githubusercontent.com/c120487/00/main/api/00title05152.json","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"vv003","name":"️👙主題👙","type":4,"api":"https://p.ntnas.top/https://raw.githubusercontent.com/c120487/00/main/api/00title05153.json","searchable":0,"quickSearch":0,"filterable":0},
-
-//
-//
-//
-{"key":"泥巴","name":"🐞泥巴","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1,"ext":"1"},
-{"key":"玩偶","name":"🐞玩偶","type":3,"api":"csp_Doll","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"18AV","name":"🐞18AV","type":3,"api":"csp_Eighteen","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Jable","name":"🐞Jable","type":3,"api":"csp_Jable","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"MissAV","name":"🐞MissAV","type":3,"api":"csp_Miss","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Supjav","name":"🐞Supjav","type":3,"api":"csp_Supjav","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Hanime","name":"🐞Hanime","type":3,"api":"csp_Hanime","searchable":1,"quickSearch":1,"filterable":1},
-
-
-   {
-      "key": "量子",
-      "name": "量子",
-      "type": 0,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "伦理片"
-      ]
-    },
-    {
-      "key": "非凡",
-      "name": "非凡",
-      "type": 0,
-      "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "伦理片"
-      ]
-    },
-//
-//
-//
-//
 {"key":"s00json","name":"🐝🐝json1🐝🐝‍","type":0,"api":"","searchable":0,"quickSearch":0},
 {"name":"51smt4水蜜桃","key":"11水蜜桃","type":1,"api":"http://51smt4.xyz/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"523zyw523资源","key":"11523资源","type":1,"api":"https://caiji.523zyw.com/inc/apijson_vod.php","searchable":1,"quickSearch":1,"filterable":1},
@@ -341,30 +285,7 @@
 {"name":"xrbsp淫水机资源","key":"00淫水机资源","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"xx55zyapi点点点","key":"00点点点","type":0,"api":"https://xx55zyapi.com/home/cjapi/ascf/mc/vod/xml","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"xx55zyapi点点","key":"00点点","type":0,"api":"https://xx55zyapi.com/home/cjapi/ascf/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":1},
-
-
-//
-//
-//
-//End, search, recommendation and summary
-{"key":"1212_Search","name":"🔍🔍Search🔍🔍","type":0,"api":"","searchable":0,"quickSearch":0,"filterable":1},  
-
-{"key":"T4Demo","name":"🔍T4 Demo‍","type":4,"api":"https://t4.secan.icu/vod","searchable":0,"quickSearch":0,"filterable":1},
-{"key":"T4Backup","name":"🔍T4 Backup‍","type":4,"api":"https://t4.run.goorm.io/vod","searchable":0,"quickSearch":0,"filterable":1},
-{"key":"t4AnLao","name":"🔍T4搜索","type":4,"api":"https://t4.secan.icu/vod?sites=voflix,gitcafe,onelist&timeout=5","searchable":0,"quickSearch":0,"filterable":1},
-{"key":"T4聚合","name":"🔍T4聚合","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=8f0b3f0dc1834f309f077ea5549e99a8&timeout=5","searchable":0,"quickSearch":0,"filterable":1},
-{"key":"t4public","name":"🔍T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=https://ju990c.i996.me/TS/token.json&timeout=5","searchable":0,"quickSearch":0,"filterable":1},
-{"key":"t4_搜片","name":"🔍搜片(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&timeout=5","searchable":0,"quickSearch":0,"filterable":1},
-{"key":"T4a","name":"🔍聚合(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=5","searchable":0,"quickSearch":0,"filterable":1},
-{"key":"t4_公共","name":"🔍公共(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=5","searchable":0,"quickSearch":0,"filterable":1},
-
-
-{"key":"douban","name":"🅱豆瓣荐片","type":4,"api":"https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?","searchable":0,"quickSearch":0,"filterable":1}
 ],
-
-//
-//
-//
 
 "rules":[
 {"host":"*","rule":["default.365yg.com"]},
